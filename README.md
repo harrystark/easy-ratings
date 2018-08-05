@@ -1,1 +1,1 @@
-"# easy-ratings" 
+# easy-ratings
