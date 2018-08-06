@@ -104,4 +104,4 @@ function getReview(name, reviewer="goodreads"){
 
 //getReview("fightclud").then((data)=>{console.log(data)})
 
-module.exports.getReview = getRating
+module.exports.getRating = getReview
